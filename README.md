@@ -1,5 +1,7 @@
 ## LoopSubdivision
 
+> **NOTE**: This implementation is not completely correct.
+
 ### Getting Started
 > You can also download [release](https://github.com/ZXPrism/LoopSubdivision/releases/).
 
